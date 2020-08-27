@@ -36,11 +36,20 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 <table>
     <tr>
     <td style="width:120px; text-align:center; font-size:90%;"><img src="../images/team/DenisShirshov.jpg" width="110"/></td>
-    <td style="vertical-align:top; padding-left:1em; font-size:90%;"><strong>Denis Shirshov</strong> <br /> European Institute for Systems Biology and Medicine, Lyon, France</td>
+    <td style="vertical-align:top; padding-left:1em;"><strong>Denis Shirshov</strong> <br /> <font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></td>
     </tr>
 </table>
 
 <br />
+
+<table>
+<tr>
+<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/DenisShirshov.jpg" width="140"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AlexanderMazein.jpg" width="140"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AdrienRougny.jpg" width="140"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AnatolySorokin.jpg" width="140"/></p></td>
+</tr>
+</table>
 
 <table>
 <tr>
