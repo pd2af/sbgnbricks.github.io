@@ -39,6 +39,7 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
     <td style="vertical-align:top; padding-left:1em;"><strong>Denis Shirshov</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Volunteer Software Developer<br />European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
     </tr>
 </table>
+<br />
 <table>
     <tr>
     <td style="width:105px; text-align:center; font-size:90%;"><img src="../images/team/DenisShirshov.jpg" width="100"/></td>
