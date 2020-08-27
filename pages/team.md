@@ -35,6 +35,11 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 
 <!--![DenisShirshov](/images/team/DenisShirshov.jpg){:height="120px" width="120px"}-->
 
+<div class="parent">
+    <div class="img"><a href="/pd/"><img src="../images/team/DenisShirshov.jpg"/></a></div>
+    <div class="text"><strong>Catalysis: multiple substrates and products.</strong> <strong>Denis Shirshov</strong> <br /> European Institute for Systems Biology and Medicine, Lyon, France</div>
+</div>
+
 <br />
 
 <table>
