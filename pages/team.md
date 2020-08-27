@@ -31,6 +31,8 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 **Anna Niarakis**, University of Evry, University of Paris-Saclay, Evry, France  
 **Sylvain Soliman**, Lifeware Group, Inria Saclay-Île de France, Palaiseau, France  
 
+<br />
+
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/DenisShirshov.jpg" width="140"/></p></td>
