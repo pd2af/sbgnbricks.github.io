@@ -14,6 +14,23 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 
 ### Project Team
 
+**Denis Shirshov**, PD2AF Lead Developer, European Institute for Systems Biology and Medicine, Lyon, France  
+**Alexander Mazein**, PD2AF Project Coordinator, European Institute for Systems Biology and Medicine, Lyon, France; Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg  
+**Adrien Rougny**, National Institute of Advanced Industrial Science and Technology, Tokyo, Japan  
+**Anatoly Sorokin**, Institute of Cell Biophysics, Russian Academy of Science, Pushchino, Russia  
+**Ilya Mazein**, Applied Mathematics and Control Processes, Saint Petersburg State University, Petergof, Saint Petersburg, Russia  
+**Vasundra Toure**, Norwegian University of Science and Technology, Trondheim, Norway  
+**Irina Balaur**, European Institute for Systems Biology and Medicine, Lyon, France  
+**Johann Pellet**, European Institute for Systems Biology and Medicine, Lyon, France  
+**Charles Auffray**, uropean Institute for Systems Biology and Medicine, Lyon, France  
+**Ugur Dogrusoz**, Department of Computer Engineering, Bilkent University, Ankara, Turkey  
+**Marek Ostaszewski**, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg  
+**Yohan Jarosz**, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg  
+**Christophe Trefois**, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg
+**Reinhard Schneider**, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg
+**Anna Niarakis**, University of Evry, University of Paris-Saclay, Evry, France
+**Sylvain Soliman**, Lifeware Group, Inria Saclay-Île de France, Palaiseau, France
+
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/DenisShirshov.jpg" width="140"/></p></td>
