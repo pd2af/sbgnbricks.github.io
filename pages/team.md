@@ -42,14 +42,11 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 
 <br />
 
-<table>
-<tr>
-<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/DenisShirshov.jpg" width="140"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AlexanderMazein.jpg" width="140"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AdrienRougny.jpg" width="140"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AnatolySorokin.jpg" width="140"/></p></td>
-</tr>
-</table>
+
+
+
+
+
 
 <table>
 <tr>
