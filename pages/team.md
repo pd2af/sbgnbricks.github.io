@@ -59,10 +59,10 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/DenisShirshov.jpg" width="140"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AlexanderMazein.jpg" width="140"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AdrienRougny.jpg" width="140"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AnatolySorokin.jpg" width="140"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/DenisShirshov.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AlexanderMazein.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AdrienRougny.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AnatolySorokin.jpg" width="120"/></p></td>
 </tr>
 </table>
 
@@ -77,10 +77,10 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/IlyaMazein.jpg" width="140"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/VasundraToure.jpg" width="140"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/IrinaBalaur.jpg" width="140"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/UgurDogrusoz.jpg" width="140"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/IlyaMazein.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/VasundraToure.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/IrinaBalaur.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/UgurDogrusoz.jpg" width="120"/></p></td>
 </tr>
 </table>
 
@@ -95,10 +95,10 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/AnnaNiarakis.jpg" width="140"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/SylvainSoliman.jpg" width="140"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/MarekOstaszewski.jpg" width="140"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/YohanJarosz.jpg" width="140"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/AnnaNiarakis.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/SylvainSoliman.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/MarekOstaszewski.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/YohanJarosz.jpg" width="120"/></p></td>
 </tr>
 </table>
 
@@ -113,10 +113,10 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/CharlesAuffray.jpg" width="140"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/JohannPellet.jpg" width="140"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/ChristopheTrefois.jpg" width="140"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/ReinhardSchneider.jpg" width="140"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/CharlesAuffray.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/JohannPellet.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/ChristopheTrefois.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/ReinhardSchneider.jpg" width="120"/></p></td>
 </tr>
 </table>
 
