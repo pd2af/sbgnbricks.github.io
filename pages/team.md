@@ -33,7 +33,7 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
     </tr>
     <tr>
     <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="AnatolySorokin"><img src="../images/team/AnatolySorokin.jpg" width="100"/></a></td>
-    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Anatoly Sorokin</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">SBGN Editor elected for 2008 - 2009 and 2012 - 2014<br />Team Leader<br />Institute of Cell Biophysics, Russian Academy of Science, Pushchino, Russia</font></p></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Anatoly Sorokin</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">SBGN Editor elected for 2008 - 2009 and 2012 - 2014<br />Head of Laboratory<br />Institute of Cell Biophysics, Russian Academy of Science, Pushchino, Russia</font></p></td>
     </tr>
     <tr>
     <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="ChristopheTrefois"><img src="../images/team/ChristopheTrefois.jpg" width="100"/></a></td>
