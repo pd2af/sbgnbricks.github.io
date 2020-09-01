@@ -29,17 +29,23 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
     </tr>
     <tr>
     <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="AdrienRougny"><img src="../images/team/AdrienRougny.jpg" width="100"/></a></td>
-    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Adrien Rougny</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Researcher<br />National Institute of Advanced Industrial Science and Technology, Tokyo, Japan</font></p></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Adrien Rougny</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">SBGN Editor elected for 2018 - 2020<br />Researcher<br />National Institute of Advanced Industrial Science and Technology, Tokyo, Japan</font></p></td>
+    </tr>
+    <tr>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="AnatolySorokin"><img src="../images/team/AnatolySorokin.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Anatoly Sorokin</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">SBGN Editor elected for 2008 - 2009 and 2012 - 2014<br />Team Leader<br />Institute of Cell Biophysics, Russian Academy of Science, Pushchino, Russia</font></p></td>
+    </tr>
+    <tr>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="ChristopheTrefois"><img src="../images/team/ChristopheTrefois.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Christophe Trefois</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Team Leader, Responsible and Reproducible Research<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
     </tr>
 </table>
 
 
 <br /><br /><br />
 
-**Denis Shirshov**, European Institute for Systems Biology and Medicine, Lyon, France  
-**Alexander Mazein**, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg  
-**Adrien Rougny**, National Institute of Advanced Industrial Science and Technology, Tokyo, Japan  
-**Anatoly Sorokin**, Institute of Cell Biophysics, Russian Academy of Science, Pushchino, Russia  
+ 
+
 **Ilya Mazein**, Saint Petersburg State University, Petergof, Saint Petersburg, Russia  
 **Vasundra Toure**, Norwegian University of Science and Technology, Trondheim, Norway  
 **Irina Balaur**, European Institute for Systems Biology and Medicine, Lyon, France  
@@ -48,7 +54,7 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 **Ugur Dogrusoz**, Department of Computer Engineering, Bilkent University, Ankara, Turkey  
 **Marek Ostaszewski**, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg  
 **Yohan Jarosz**, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg  
-**Christophe Trefois**, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg  
+**Christophe Trefois**, Team Leader Responsible and Reproducible Research at University of Luxembourg, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg  
 **Reinhard Schneider**, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg  
 **Anna Niarakis**, University of Evry, University of Paris-Saclay, Evry, France  
 **Sylvain Soliman**, Lifeware Group, Inria Saclay-Île de France, Palaiseau, France  
