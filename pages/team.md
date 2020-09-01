@@ -14,7 +14,7 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 
 ### Project Team
 
-[Denis Shirshov](#DenisShirshov), [Alexander Mazein](#AlexanderMazein), [Adrien Rougny](#AdrienRougny), [Anatoly Sorokin](#AnatolySorokin), Ilya Mazein, Vasundra Toure, Irina Balaur, Johann Pellet, Charles Auffray, Ugur Dogrusoz, Marek Ostaszewski, Yohan Jarosz, Christophe Trefois, Reinhard Schneider, Anna Niarakis, Sylvain Soliman  
+[Denis Shirshov](#DenisShirshov), [Alexander Mazein](#AlexanderMazein), [Adrien Rougny](#AdrienRougny), [Anatoly Sorokin](#AnatolySorokin), [Ilya Mazein](#IlyaMazein), [Vasundra Toure](#VasundraToure), [Irina Balaur](#IrinaBalaur), [Johann Pellet](#JohannPellet), [Charles Auffray](#CharlesAuffray), [Ugur Dogrusoz](#UgurDogrusoz), [Anna Niarakis](#AnnaNiarakis), [Sylvain Soliman](#SylvainSoliman), [Marek Ostaszewski](#MarekOstaszewski), [Yohan Jarosz](#YohanJarosz), [Christophe Trefois](#ChristopheTrefois), [Reinhard Schneider](#ReinhardSchneider)   
 
 <br />
 
