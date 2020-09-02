@@ -76,6 +76,14 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Charles Auffray</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Research Director at CNRS<br />Founding Director of the EISBM<br />European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
     </tr>
     <tr>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="MarekOstaszewski"><img src="../images/team/MarekOstaszewski.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Marek Ostaszewski</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Research Scientists<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
+    </tr>
+    <tr>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="YohanJarosz"><img src="../images/team/YohanJarosz.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Yohan Jarosz</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Research and Development Specialist<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
+    </tr>
+    <tr>
     <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="ChristopheTrefois"><img src="../images/team/ChristopheTrefois.jpg" width="100"/></a></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Christophe Trefois</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Team Leader, Responsible and Reproducible Research<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
     </tr>
@@ -89,13 +97,6 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 <br /><br /><br />
 
 
-
-
-**Ugur Dogrusoz**, Department of Computer Engineering, Bilkent University, Ankara, Turkey  
-**Marek Ostaszewski**, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg  
-**Yohan Jarosz**, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg  
-
-  
 **Anna Niarakis**, University of Evry, University of Paris-Saclay, Evry, France  
 **Sylvain Soliman**, Lifeware Group, Inria Saclay-Île de France, Palaiseau, France  
 
