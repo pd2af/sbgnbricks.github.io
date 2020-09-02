@@ -51,6 +51,9 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
     <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="ChristopheTrefois"><img src="../images/team/ChristopheTrefois.jpg" width="100"/></a></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Christophe Trefois</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Team Leader, Responsible and Reproducible Research<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
     </tr>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="IlyaMazein"><img src="../images/team/noprofile.png" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Ilya Mazein</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">MSc Student, Applied Mathematics and Control Processes<br />Saint Petersburg State University, Petergof, Saint Petersburg, Russia</font></p></td>
+    </tr>
 </table>
 
 
@@ -58,7 +61,7 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 
  
 
-**Ilya Mazein**, Saint Petersburg State University, Petergof, Saint Petersburg, Russia  
+  
 **Vasundra Toure**, Norwegian University of Science and Technology, Trondheim, Norway  
 **Irina Balaur**, European Institute for Systems Biology and Medicine, Lyon, France  
 **Johann Pellet**, European Institute for Systems Biology and Medicine, Lyon, France  
@@ -95,7 +98,7 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/IlyaMazein.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/noprofile.png" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/VasundraToure.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/IrinaBalaur.jpg" width="120"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/UgurDogrusoz.jpg" width="120"/></p></td>
