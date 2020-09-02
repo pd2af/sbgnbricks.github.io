@@ -35,6 +35,36 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
     <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="VasundraToure"><img src="../images/team/VasundraToure.jpg" width="100"/></a></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Vasundra Toure</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">PhD Student<br />Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
     </tr>
+    <tr>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="UgurDogrusoz"><img src="../images/team/UgurDogrusoz.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Ugur Dogrusoz</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">PI of the Newt Editor project<br />Professor in Computer Engineering<br />Department of Computer Engineering, Bilkent University, Ankara, Turkey</font></p></td>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="IrinaBalaur"><img src="../images/team/IrinaBalaur.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Irina Balaur</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Researcher<br />European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
+    </tr>
+    <tr>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="JohannPellet"><img src="../images/team/JohannPellet.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Johann Pellet</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Researcher<br />European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="CharlesAuffray"><img src="../images/team/CharlesAuffray.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Charles Auffray</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Research Director at CNRS<br />Founding Director of the EISBM<br />European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
+    </tr>
+    <tr>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="AnnaNiarakis"><img src="../images/team/AnnaNiarakis.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Anna Niarakis</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Associate Professor<br />University of Evry, University of Paris-Saclay, Evry, France</font></p></td>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="SylvainSoliman"><img src="../images/team/SylvainSoliman.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Sylvain Soliman</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Computer Science Researcher<br />Lifeware Group, Inria Saclay-Île de France, Palaiseau, France</font></p></td>
+    </tr>
+    <tr>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="MarekOstaszewski"><img src="../images/team/MarekOstaszewski.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Marek Ostaszewski</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Research Scientists<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="YohanJarosz"><img src="../images/team/YohanJarosz.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Yohan Jarosz</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Research and Development Specialist<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
+    </tr>
+    <tr>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="ChristopheTrefois"><img src="../images/team/ChristopheTrefois.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Christophe Trefois</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Team Leader, Responsible and Reproducible Research<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="ReinhardSchneider"><img src="../images/team/ReinhardSchneider.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Reinhard Schneider</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Full professor / Chief Scientist 1 in Bioinformatics<br />Head of Bioinformatics Core Facility<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
+    </tr>
 </table>
 
 
