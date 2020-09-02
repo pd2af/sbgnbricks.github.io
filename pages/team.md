@@ -55,7 +55,7 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
     </tr>
     <tr>
     <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="IlyaMazein"><img src="../images/team/noprofile.png" width="100"/></a></td>
-    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Ilya Mazein</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">MSc Student, Applied Mathematics and Control Processes<br />Saint Petersburg State University, Petergof, Saint Petersburg, Russia</font></p></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Ilya Mazein</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">MSc Student, Applied Mathematics<br />Saint Petersburg State University, Petergof, Saint Petersburg, Russia</font></p></td>
     </tr>
     <tr>
     <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="VasundraToure"><img src="../images/team/VasundraToure.jpg" width="100"/></a></td>
