@@ -25,8 +25,14 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
     </tr>
 </table>
 
-
-
+<table>
+    <tr>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="AdrienRougny"><img src="../images/team/AdrienRougny.jpg" width="100"/></a></td>
+    <td style="width:300px; vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Adrien Rougny</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">SBGN Editor elected for 2018 - 2020<br />Researcher<br />National Institute of Advanced Industrial Science and Technology, Tokyo, Japan</font></p></td>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="AnatolySorokin"><img src="../images/team/AnatolySorokin.jpg" width="100"/></a></td>
+    <td style=width:300px; vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Anatoly Sorokin</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">SBGN Editor elected for 2008 - 2009 and 2012 - 2014<br />Head of Laboratory<br />Institute of Cell Biophysics, Russian Academy of Science, Pushchino, Russia</font></p></td>
+    </tr>
+</table>
 
 <br />
 
@@ -56,6 +62,10 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Vasundra Toure</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">PhD Student<br />Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
     </tr>
     <tr>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="UgurDogrusoz"><img src="../images/team/UgurDogrusoz.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Ugur Dogrusoz</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">PI of the Newt Editor project<br />Professor in Computer Engineering<br />Department of Computer Engineering, Bilkent University, Ankara, Turkey</font></p></td>
+    </tr>
+    <tr>
     <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="IrinaBalaur"><img src="../images/team/IrinaBalaur.jpg" width="100"/></a></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Irina Balaur</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Researcher<br />European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
     </tr>
@@ -66,10 +76,6 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
     <tr>
     <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="CharlesAuffray"><img src="../images/team/CharlesAuffray.jpg" width="100"/></a></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Charles Auffray</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Research Director at CNRS<br />Founding Director of the EISBM<br />European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
-    </tr>
-    <tr>
-    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="UgurDogrusoz"><img src="../images/team/UgurDogrusoz.jpg" width="100"/></a></td>
-    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Ugur Dogrusoz</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">PI of the Newt Editor project<br />Professor in Computer Engineering<br />Department of Computer Engineering, Bilkent University, Ankara, Turkey</font></p></td>
     </tr>
     <tr>
     <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="ChristopheTrefois"><img src="../images/team/ChristopheTrefois.jpg" width="100"/></a></td>
