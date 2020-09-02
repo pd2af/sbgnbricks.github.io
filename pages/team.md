@@ -76,6 +76,14 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Charles Auffray</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Research Director at CNRS<br />Founding Director of the EISBM<br />European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
     </tr>
     <tr>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="AnnaNiarakis"><img src="../images/team/AnnaNiarakis.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Anna Niarakis</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Associate Professor<br />University of Evry, University of Paris-Saclay, Evry, France</font></p></td>
+    </tr>
+    <tr>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="SylvainSoliman"><img src="../images/team/SylvainSoliman.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Sylvain Soliman</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Computer Science Researcher<br />Lifeware Group, Inria Saclay-Île de France, Palaiseau, France</font></p></td>
+    </tr>
+    <tr>
     <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="MarekOstaszewski"><img src="../images/team/MarekOstaszewski.jpg" width="100"/></a></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Marek Ostaszewski</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Research Scientists<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
     </tr>
@@ -94,11 +102,7 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 </table>
 
 
-<br /><br /><br />
-
-
-**Anna Niarakis**, University of Evry, University of Paris-Saclay, Evry, France  
-**Sylvain Soliman**, Lifeware Group, Inria Saclay-Île de France, Palaiseau, France  
+<br /><br />
 
 
 <table>
