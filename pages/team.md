@@ -48,10 +48,6 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Anatoly Sorokin</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">SBGN Editor elected for 2008 - 2009 and 2012 - 2014<br />Head of Laboratory<br />Institute of Cell Biophysics, Russian Academy of Science, Pushchino, Russia</font></p></td>
     </tr>
     <tr>
-    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="ChristopheTrefois"><img src="../images/team/ChristopheTrefois.jpg" width="100"/></a></td>
-    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Christophe Trefois</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Team Leader, Responsible and Reproducible Research<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
-    </tr>
-    <tr>
     <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="IlyaMazein"><img src="../images/team/noprofile.png" width="100"/></a></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Ilya Mazein</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">MSc Student, Applied Mathematics and Control Processes<br />Saint Petersburg State University, Petergof, Saint Petersburg, Russia</font></p></td>
     </tr>
@@ -75,6 +71,14 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
     <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="UgurDogrusoz"><img src="../images/team/UgurDogrusoz.jpg" width="100"/></a></td>
     <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Ugur Dogrusoz</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">PI of the Newt Editor project<br />Professor in Computer Engineering<br />Department of Computer Engineering, Bilkent University, Ankara, Turkey</font></p></td>
     </tr>
+    <tr>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="ChristopheTrefois"><img src="../images/team/ChristopheTrefois.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Christophe Trefois</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Team Leader, Responsible and Reproducible Research<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
+    </tr>
+    <tr>
+    <td style="width:110px; text-align:center; font-size:90%; padding-top:0.4em;"><a id="ReinhardSchneider"><img src="../images/team/ReinhardSchneider.jpg" width="100"/></a></td>
+    <td style="vertical-align:top; padding-left:0.8em; padding-top:0.4em;"><strong>Reinhard Schneider</strong> <p style="margin-top:4px; line-height:100%;"><font size="2">Full professor / Chief Scientist 1 in Bioinformatics<br />Head of Bioinformatics Core Facility<br />Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
+    </tr>
 </table>
 
 
@@ -87,7 +91,7 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 **Marek Ostaszewski**, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg  
 **Yohan Jarosz**, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg  
 
-**Reinhard Schneider**, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg  
+  
 **Anna Niarakis**, University of Evry, University of Paris-Saclay, Evry, France  
 **Sylvain Soliman**, Lifeware Group, Inria Saclay-Île de France, Palaiseau, France  
 
