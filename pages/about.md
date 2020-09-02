@@ -32,7 +32,7 @@ Project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein@gmail
 
 ### Project Team
 
-[Denis Shirshov](#DenisShirshov), [Alexander Mazein](#AlexanderMazein), [Adrien Rougny](#AdrienRougny), [Anatoly Sorokin](#AnatolySorokin), [Ilya Mazein](#IlyaMazein), [Vasundra Toure](#VasundraToure), [Irina Balaur](#IrinaBalaur), [Johann Pellet](#JohannPellet), [Charles Auffray](#CharlesAuffray), [Ugur Dogrusoz](#UgurDogrusoz), [Anna Niarakis](#AnnaNiarakis), [Sylvain Soliman](#SylvainSoliman), [Marek Ostaszewski](#MarekOstaszewski), [Yohan Jarosz](#YohanJarosz), [Christophe Trefois](#ChristopheTrefois), [Reinhard Schneider](#ReinhardSchneider)   
+[Denis Shirshov](#DenisShirshov), [Alexander Mazein](#AlexanderMazein), [Adrien Rougny](#AdrienRougny), [Anatoly Sorokin](#AnatolySorokin), [Ilya Mazein](#IlyaMazein), [Vasundra Toure](#VasundraToure), [Irina Balaur](#IrinaBalaur), [Johann Pellet](#JohannPellet), [Charles Auffray](#CharlesAuffray), [Ugur Dogrusoz](#UgurDogrusoz), [Marek Ostaszewski](#MarekOstaszewski), [Yohan Jarosz](#YohanJarosz), [Christophe Trefois](#ChristopheTrefois), [Reinhard Schneider](#ReinhardSchneider), [Sylvain Soliman](#SylvainSoliman), [Anna Niarakis](#AnnaNiarakis)    
 
 <table>
     <tr>
