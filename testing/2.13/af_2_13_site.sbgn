@@ -5,13 +5,13 @@
       <label text="C" />
       <bbox x="260.0" y="130.0" w="80" h="40" />
     </glyph>
-    <glyph id="A2" class="biological activity">
+    <glyph id="A1" class="biological activity">
       <label text="A" />
-      <bbox x="360.0" y="230.0" w="80" h="40" />
+      <bbox x="260.0" y="230.0" w="80" h="40" />
     </glyph>
-    <arc class="necessary stimulation" id="necessary-stimulation-6" source="C" target="A2">
+    <arc class="negative influence" id="negative-influence-286" source="C" target="A1">
       <start x="300.0" y="170.0" />
-      <end x="400.0" y="230.0" />
+      <end x="300.0" y="230.0" />
     </arc>
   </map>
 </sbgn>
