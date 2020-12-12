@@ -6,7 +6,7 @@
             <bbox y="115.5" x="210.0" h="40.0" w="80.0"/>
             <glyph id="A2a" class="unit of information">
                 <entity name="simple chemical"/>
-                <bbox y="101.5" x="256.0" h="28.0" w="28.0"/>
+                <bbox y="105.5" x="260.0" h="20.0" w="20.0"/>
             </glyph>
         </glyph>
         <glyph id="C" class="biological activity">
@@ -18,7 +18,7 @@
             <bbox y="115.5" x="10.0" h="40.0" w="80.0"/>
             <glyph id="A1a" class="unit of information">
                 <entity name="simple chemical"/>
-                <bbox y="101.5" x="16.0" h="28.0" w="28.0"/>
+                <bbox y="105.5" x="20.0" h="20.0" w="20.0"/>
             </glyph>
         </glyph>
         <glyph id="and-729" class="and">
