@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
-  <map language="activity flow">
-    <glyph id="R1" class="biological activity">
-      <label text="R1" />
-      <bbox x="260.0" y="130.0" w="80" h="40" />
-    </glyph>
-  </map>
-</sbgn>
