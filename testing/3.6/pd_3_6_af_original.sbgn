@@ -8,7 +8,7 @@
     <glyph id="A2" class="biological activity">
       <label text="A2" />
       <bbox x="210.0" y="115.0" w="80.0" h="40.0" />
-      <glyph id="A2-uoi-733" class="unit of information">
+      <glyph id="A2-uoi-1081" class="unit of information">
         <label text="" />
         <entity name="simple chemical" />
         <bbox x="230.0" y="110.0" w="40" h="10" />
@@ -17,7 +17,7 @@
     <glyph id="A1" class="biological activity">
       <label text="A1" />
       <bbox x="10.0" y="115.0" w="80.0" h="40.0" />
-      <glyph id="A1-uoi-734" class="unit of information">
+      <glyph id="A1-uoi-1082" class="unit of information">
         <label text="" />
         <entity name="simple chemical" />
         <bbox x="30.0" y="110.0" w="40" h="10" />
