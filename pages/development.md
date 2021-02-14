@@ -23,3 +23,14 @@ The infrustructure modules:
 - **SBGN-Lisp language** employs a special Lisp-like syntax and related tools that allow writing SBGN maps in the form of sexp expressions. This allows coding otherwise graphical diagrams in the form of human-readable text. 
 - **PD2AF converter** translates SBGN Process Description diagrams into SBGN Activity Flow. It also converts SBGN-ML to sexp expressions and sexp expression back to SBGN-ML.  
 
+The PD-to-AF conversion includes the following steps.  
+
+![Figure 2](/images/development/converter_design.png)
+
+The red arrows show the transformations implemented.  
+1. An SBGN Process Description diagram is produced in SBGN editors such as VANTED/SBGN-ED and Newt.
+1. The PD2AF tool builds an internal represenattion of the diagram by transforming SBGN-ML PD XML to sexp expression.  
+1. Next, it cleans and normalises the sexp expression, making it ready for pattern matching  
+1. Then, we have the main stage of the conversion from PD to AF. The converter matches patterns and replaces these PD patterns with the prescripted AF forms.  
+1. Then, these forms are cleaned again to provide a more compact and sensible AF output.   
+1. Finally, sexp expression is transforrmed back to XML, this time SBGN-ML AF format. This XML file can be viewed and edited in SBGN editors such as VANTED/SBGN-ED and Newt.  
