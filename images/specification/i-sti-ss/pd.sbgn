@@ -15,7 +15,7 @@
             <port y="135.0" x="169.0" id="glyph4.2"/>
         </glyph>
         <glyph id="glyph3" class="source and sink">
-            <bbox y="115.0" x="245.0" h="40.0" w="40.0"/>
+            <bbox y="115.0" x="205.0" h="40.0" w="40.0"/>
         </glyph>
         <arc target="glyph4" source="glyph1" id="arc1" class="stimulation">
             <start y="55.0" x="145.0"/>
@@ -27,7 +27,7 @@
         </arc>
         <arc target="glyph3" source="glyph4.2" id="arc3" class="production">
             <start y="135.0" x="169.0"/>
-            <end y="135.0" x="245.0"/>
+            <end y="135.0" x="205.0"/>
         </arc>
     </map>
 </sbgn>
