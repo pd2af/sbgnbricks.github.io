@@ -1513,7 +1513,7 @@ This is a combination of rules 8.1 and 2.7
 			<div><img src="/images/specification/hidden_inhibition_2/pd.png" width="392px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/hidden_inhibition_2/af.png" width="78px" />
+			<img src="/images/specification/hidden_inhibition_2/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
