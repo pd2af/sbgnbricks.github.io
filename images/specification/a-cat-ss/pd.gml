@@ -1,4 +1,4 @@
-# generated with VANTED V2.7.2 at Tue Feb 16 21:47:38 CET 2021
+# generated with VANTED V2.7.2 at Tue Feb 16 21:52:40 CET 2021
 graph [
   graphbackgroundcolor "#ffffff"
   sbgn [
@@ -122,26 +122,6 @@ graph [
     ]
   ]
   edge [
-    id 5
-    source 1
-    target 3
-    graphics [
-      fill "#000000"
-      outline "#000000"
-      arrow "last"
-      arrowheadstyle "stimulation"
-      frameThickness 1.5
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      thickness 15.0
-    ]
-    sbgn [
-      glyphid "arc1"
-      role "STIMULATION"
-    ]
-  ]
-  edge [
     id 6
     source 2
     target 3
@@ -195,6 +175,25 @@ graph [
     sbgn [
       glyphid "arc3"
       role "PRODUCTION"
+    ]
+  ]
+  edge [
+    id 10
+    source 1
+    target 3
+    graphics [
+      fill "#000000"
+      outline "#000000"
+      arrow "last"
+      arrowheadstyle "catalysis"
+      frameThickness 1.5
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      thickness 18.0
+    ]
+    sbgn [
+      role "CATALYSIS"
     ]
   ]
 ]
