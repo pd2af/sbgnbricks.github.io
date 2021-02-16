@@ -1095,10 +1095,10 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/i-sti-ss/pd.png" width="217.6px" /></div>
+			<div><img src="/images/specification/i-sti-ss/pd.png" width="218px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/i-sti-ss/af.png" width="69.6px" />
+			<img src="/images/specification/i-sti-ss/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -1119,14 +1119,15 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/a-cat-ss/pd.png" width="217.6px" /></div>
+			<div><img src="/images/specification/a-cat-ss/pd.png" width="218px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/a-cat-ss/af.png" width="69.6px" />
+			<img src="/images/specification/a-cat-ss/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/a-cat-ss/pd.gml">GML</a>&ensp; &ensp;
 			<a href="/images/specification/a-cat-ss/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-cat-ss/pd.sbgn" target="_blank">Newt</a>
 		</td>
