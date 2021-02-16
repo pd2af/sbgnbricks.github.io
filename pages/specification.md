@@ -394,7 +394,8 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	
    <h4 style="color:black">2.8 PD2AF:I-NSTI-A</h4>
    
-<span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>
+<!--<span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>-->
+WARNING: Rare or wrong representation of a signalling event.
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -520,7 +521,8 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
    <h4 style="color:black">2.13 PD2AF:A-NSTI-I
 </h4>
    
-<span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>
+<!--<span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>-->
+WARNING: Rare or wrong representation of a signalling event.
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -644,7 +646,8 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 
    <h4 style="color:black">2.18 PD2AF:A-NSTI-A</h4>
    
-<span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>
+<!--<span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>-->
+WARNING: Rare or wrong representation of a signalling event.
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -773,7 +776,8 @@ COMMENT: Modified represetnation in Activity Flow: demerging arcs from the logic
 
 <h4 style="color:black">2.23 PD2AF:A-CATR-A</h4>
 
-<span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>
+<!--<span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>-->
+WARNING: Rare or wrong representation of a signalling event.
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -830,7 +834,8 @@ COMMENT: Modified represetnation in Activity Flow: demerging arcs from the logic
 
    <h4 style="color:black">2.25 PD2AF:I-INHR-A (AF OUTPUT CORRECTED)</h4>
    
-<span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>
+<!--<span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>-->
+WARNING: Rare or wrong representation of a signalling event.
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -914,7 +919,8 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 
    <h4 style="color:black">3.3 PD2AF:M-NSTI-M</h4>
    
-<span style="color:red">WARNING: Rare or wrong representation of a metabolic event.</span>
+<!--<span style="color:red">WARNING: Rare or wrong representation of a metabolic event.</span>-->
+WARNING: Rare or wrong representation of a metabolic event.
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -941,7 +947,8 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 
    <h4 style="color:black">3.4 PD2AF:M-MOD-M</h4>
    
-<span style="color:red">WARNING: Rare or wrong representation of a metabolic event.</span>
+<!--<span style="color:red">WARNING: Rare or wrong representation of a metabolic event.</span>-->
+WARNING: Rare or wrong representation of a metabolic event.
 
 <table class="rules-table">
 	<tr style="font-size:90%">
