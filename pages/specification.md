@@ -1061,12 +1061,12 @@ WARNING: Rare or wrong representation of a metabolic event.
    
 ## 4. Empty set (production, degradation, transcription, translation)
 
-This section describes processes with an _empty set_ that represents an external pool of entities and is used when we do not need or wish or have enough information to represent specific entities. For example, for the production of a protein, we do not represent all the amino acids and other metabolites used. 
+This section describes processes with an _empty set_ (source/sink) that represents an external pool of entities and is used when we do not need or wish or have enough information to represent specific entities. For example, for the production of a protein, we do not represent all the amino acids and other metabolites used. 
 
 Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degradation
 
 	
-   <h4 style="color:black">4.1 PD2AF:ES-STI</h4>
+   <h4 style="color:black">4.1 PD2AF:SS-STI</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1090,7 +1090,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 </table><br />
 	
 
-   <h4 style="color:black">4.2 PD2AF:ES-DEGR-STI</h4>
+   <h4 style="color:black">4.2 PD2AF:I-STI-SS</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1114,7 +1114,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 </table><br />
 
 
-   <h4 style="color:black">4.3 PD2AF:ES-DEGR-CAT</h4>
+   <h4 style="color:black">4.3 PD2AF:A-CAT-SS</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1138,7 +1138,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 </table><br />
 
 
-   <h4 style="color:black">4.4 PD2AF:ES-DEGR-INH</h4>
+   <h4 style="color:black">4.4 PD2AF:A-INH-SS</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1161,7 +1161,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 	</tr>
 </table><br />
    
-   <h4 style="color:black">4.5 PD2AF:ES-TRSCR Trancscription (NEW)</h4>
+   <h4 style="color:black">4.5 PD2AF:SS-TRSCR Trancscription (NEW)</h4>
    
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1187,7 +1187,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 </table><br />
 
    
-   <h4 style="color:black">4.6 PD2AF:ES-TRSL Translation (NEW)</h4> 
+   <h4 style="color:black">4.6 PD2AF:SS-TRSL Translation (NEW)</h4> 
 
 <table class="rules-table">
 	<tr style="font-size:90%">
