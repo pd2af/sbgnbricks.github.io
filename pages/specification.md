@@ -815,7 +815,8 @@ WARNING: Rare or wrong representation of a signalling event.
 
    <h4 style="color:black">2.24 PD2AF:I-CATR-A</h4>
    
-<span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>
+<!--<span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>-->
+WARNING: Rare or wrong representation of a signalling event.
 
 <table class="rules-table">
 	<tr style="font-size:90%">
