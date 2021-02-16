@@ -1486,7 +1486,7 @@ Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranloc
 			<div><img src="/images/specification/hidden_inhibition_1/pd.png" width="392px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/hidden_inhibition_1/af.png" width="69.6px" />
+			<img src="/images/specification/hidden_inhibition_1/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
