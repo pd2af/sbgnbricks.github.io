@@ -483,6 +483,7 @@ WARNING: Rare or wrong representation of a signalling event.
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/a-sti-i/pd.gml">GML</a>&ensp; &ensp;
 			<a href="/images/specification/a-sti-i/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-sti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
