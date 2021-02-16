@@ -55,7 +55,7 @@ The following rules are used for identifying _active entities_ in the context of
 In graphical visualisatin of these rules we use _unspecified entity_ to show that different types of entities can be in its place such as _macromolecule_ (protein), _simple chemical_ (metabolite), _nucleic acid feature_ (gene, mRNA) or _complex_.
 
 
-<h4 style="color:black">1.1 PD2AF:AE-A (0.1 act)</h4>
+<h4 style="color:black">1.1 PD2AF:AE-A</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -75,7 +75,7 @@ In graphical visualisatin of these rules we use _unspecified entity_ to show tha
 </table>
 
 
-   <h4 style="color:black">1.2 PD2AF:AE-MOD (0.2 mod)</h4>
+   <h4 style="color:black">1.2 PD2AF:AE-MOD</h4>
    
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -95,7 +95,7 @@ In graphical visualisatin of these rules we use _unspecified entity_ to show tha
 </table>
 
 
-   <h4 style="color:black">1.3 PD2AF:AE-STI (0.3 stim)</h4>
+   <h4 style="color:black">1.3 PD2AF:AE-STI</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -115,7 +115,7 @@ In graphical visualisatin of these rules we use _unspecified entity_ to show tha
 </table>
 
 
-   <h4 style="color:black">1.4 PD2AF:AE-CAT (0.4 cat)</h4>
+   <h4 style="color:black">1.4 PD2AF:AE-CAT</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -134,7 +134,7 @@ In graphical visualisatin of these rules we use _unspecified entity_ to show tha
 	</tr>
 </table>
 
-   <h4 style="color:black">1.5 PD2AF:AE-INH (0.5 inh)</h4>
+   <h4 style="color:black">1.5 PD2AF:AE-INH</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -153,7 +153,7 @@ In graphical visualisatin of these rules we use _unspecified entity_ to show tha
 	</tr>
 </table>
 
-   <h4 style="color:black">1.6 PD2AF:AE-NSTI (0.6 nstim)</h4>
+   <h4 style="color:black">1.6 PD2AF:AE-NSTI</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -220,7 +220,7 @@ In graphical visualisatin of these rules we use _unspecified entity_ to show tha
 Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) conversion, [GO:0036211](https://identifiers.org/quickgo/GO:0036211) protein modification process, [GO:0140096](https://identifiers.org/quickgo/GO:0140096) catalytic activity, acting on a protein
 
 
-   <h4 style="color:black">2.1 PD2AF:I-STI-I (1.1 i-sti-i)</h4>
+   <h4 style="color:black">2.1 PD2AF:I-STI-I</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -244,7 +244,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 	
 
-   <h4 style="color:black">2.2 PD2AF:I-CAT-I (1.2 i-cat-i)</h4>
+   <h4 style="color:black">2.2 PD2AF:I-CAT-I</h4>
 
 <table class="rules-table">
 	<tr>
@@ -268,7 +268,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 	
 
-   <h4 style="color:black">2.3 PD2AF:I-NSTI-I (1.3 i-nsti-i)</h4>
+   <h4 style="color:black">2.3 PD2AF:I-NSTI-I</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -292,7 +292,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 
 
-   <h4 style="color:black">2.4 PD2AF:I-MOD-I (1.4 i-mod-i)</h4>
+   <h4 style="color:black">2.4 PD2AF:I-MOD-I</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -318,7 +318,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 
 	
 
-   <h4 style="color:black">2.5 PD2AF:I-INH-I (1.5 i-inh-i)</h4>
+   <h4 style="color:black">2.5 PD2AF:I-INH-I</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -342,7 +342,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 	
 
-   <h4 style="color:black">2.6 PD2AF:I-STI-A (1.6 i-sti-a)</h4>
+   <h4 style="color:black">2.6 PD2AF:I-STI-A</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -367,7 +367,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 	
 
-   <h4 style="color:black">2.7 PD2AF:I-CAT-A (1.7 i-cat-a)</h4>
+   <h4 style="color:black">2.7 PD2AF:I-CAT-A</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -392,7 +392,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 
 	
-   <h4 style="color:black">2.8 PD2AF:I-NSTI-A (1.8 i-nsti-a)</h4>
+   <h4 style="color:black">2.8 PD2AF:I-NSTI-A</h4>
    
 <span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>
 
@@ -419,7 +419,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 	
 
-   <h4 style="color:black">2.9 PD2AF:I-MOD-A (1.9 i-mod-a)</h4>
+   <h4 style="color:black">2.9 PD2AF:I-MOD-A</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -443,7 +443,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 	
 
-   <h4 style="color:black">2.10 PD2AF:I-INH-A (1.10 i-inh-a)</h4>
+   <h4 style="color:black">2.10 PD2AF:I-INH-A</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -467,7 +467,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 	
 
-   <h4 style="color:black">2.11 PD2AF:A-STI-I (1.11 a-sti-i)</h4>
+   <h4 style="color:black">2.11 PD2AF:A-STI-I</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -491,7 +491,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />	
 	
 
-   <h4 style="color:black">2.12 PD2AF:A-CAT-I (1.12 a-cat-i)</h4>
+   <h4 style="color:black">2.12 PD2AF:A-CAT-I</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -515,7 +515,8 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 	
 
-   <h4 style="color:black">2.13 PD2AF:A-NSTI-I (1.13 a-nsti-i)</h4>
+   <h4 style="color:black">2.13 PD2AF:A-NSTI-I
+</h4>
    
 <span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>
 
@@ -541,7 +542,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 
 
-   <h4 style="color:black">2.14 PD2AF:A-MOD-I (1.14 a-mod-i)</h4>
+   <h4 style="color:black">2.14 PD2AF:A-MOD-I</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -566,7 +567,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 
 	
 
-   <h4 style="color:black">2.15 PD2AF:A-INH-I (1.15 a-inh-i)</h4>
+   <h4 style="color:black">2.15 PD2AF:A-INH-I</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -590,7 +591,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 	
 
-   <h4 style="color:black">2.16 PD2AF:A-STI-A (1.16 a-sti-a)</h4>
+   <h4 style="color:black">2.16 PD2AF:A-STI-A</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -615,7 +616,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 	
 
-   <h4 style="color:black">2.17 PD2AF:A-CAT-A (1.17 a-cat-a)</h4>
+   <h4 style="color:black">2.17 PD2AF:A-CAT-A</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -639,7 +640,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 
 
-   <h4 style="color:black">2.18 PD2AF:A-NSTI-A (1.18 a-nsti-a)</h4>
+   <h4 style="color:black">2.18 PD2AF:A-NSTI-A</h4>
    
 <span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>
 
@@ -665,7 +666,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 	
 
-   <h4 style="color:black">2.19 PD2AF:A-MOD-A (1.19 a-mod-a)</h4>
+   <h4 style="color:black">2.19 PD2AF:A-MOD-A</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -689,7 +690,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 	
 
-   <h4 style="color:black">2.20 PD2AF:A-INH-A (1.20 a-inh-a)</h4>
+   <h4 style="color:black">2.20 PD2AF:A-INH-A</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -714,7 +715,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 
 
 
-   <h4 style="color:black">2.21 PD2AF:CURM Currency metabolites (9.1 Currency metabolites 1)</h4>
+   <h4 style="color:black">2.21 PD2AF:CURM Currency metabolites</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -739,7 +740,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />	
 
 
-   <h4 style="color:black">2.22 PD2AF:NCURM Noncurrency metabolites (9.2 Noncurrency metabolites 1)</h4>
+   <h4 style="color:black">2.22 PD2AF:NCURM Noncurrency metabolites</h4>
    
 COMMENT: Modified represetnation in Activity Flow: demerging arcs from the logical operator (not available in the current version of the SBGN standard).
 
@@ -768,7 +769,7 @@ COMMENT: Modified represetnation in Activity Flow: demerging arcs from the logic
 
 
 
-<h4 style="color:black">2.23 PD2AF:A-CATR-A (1.27 a-catr-a)</h4>
+<h4 style="color:black">2.23 PD2AF:A-CATR-A</h4>
 
 <span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>
 
@@ -797,7 +798,7 @@ COMMENT: Modified represetnation in Activity Flow: demerging arcs from the logic
 
 
 
-   <h4 style="color:black">2.24 PD2AF:I-CATR-A (1.28 a-catr-i)</h4>
+   <h4 style="color:black">2.24 PD2AF:I-CATR-A</h4>
    
 <span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>
 
@@ -825,7 +826,7 @@ COMMENT: Modified represetnation in Activity Flow: demerging arcs from the logic
 </table><br />
 
 
-   <h4 style="color:black">2.25 PD2AF:I-INHR-A (AF OUTPUT CORRECTED) (1.29 i-inhr-a)</h4>
+   <h4 style="color:black">2.25 PD2AF:I-INHR-A (AF OUTPUT CORRECTED)</h4>
    
 <span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>
 
@@ -858,7 +859,7 @@ COMMENT: Modified represetnation in Activity Flow: demerging arcs from the logic
 Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metabolic process
 
 
-   <h4 style="color:black">3.1 PD2AF:M-CAT-M (1.22 m-cat-m)</h4>
+   <h4 style="color:black">3.1 PD2AF:M-CAT-M</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -884,7 +885,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 </table><br />
 
 
-   <h4 style="color:black">3.2 PD2AF:M-STI-M (1.21 m-sti-m)</h4>
+   <h4 style="color:black">3.2 PD2AF:M-STI-M</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -909,7 +910,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 </table><br />
 
 
-   <h4 style="color:black">3.3 PD2AF:M-NSTI-M (1.23 m-nsti-m)</h4>
+   <h4 style="color:black">3.3 PD2AF:M-NSTI-M</h4>
    
 <span style="color:red">WARNING: Rare or wrong representation of a metabolic event.</span>
 
@@ -936,7 +937,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 </table><br />
 	
 
-   <h4 style="color:black">3.4 PD2AF:M-MOD-M (1.24 m-mod-m)</h4>
+   <h4 style="color:black">3.4 PD2AF:M-MOD-M</h4>
    
 <span style="color:red">WARNING: Rare or wrong representation of a metabolic event.</span>
 
@@ -963,7 +964,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 </table><br />
 	
 
-   <h4 style="color:black">3.5 PD2AF:M-INH-M (AF OUTPUT CORRECTED) (1.25 m-inh-m)</h4>
+   <h4 style="color:black">3.5 PD2AF:M-INH-M (AF OUTPUT CORRECTED)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -988,7 +989,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 </table><br />
 
 
-   <h4 style="color:black">3.6 PD2AF:M-CATR-M (1.30 m-catr-m)</h4>
+   <h4 style="color:black">3.6 PD2AF:M-CATR-M</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1013,7 +1014,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 </table><br />
 	
 
-   <h4 style="color:black">3.7 PD2AF:M-INHR-M (AF OUTPUT CORRECTED) (1.31 m-inhr-m)</h4>
+   <h4 style="color:black">3.7 PD2AF:M-INHR-M (AF OUTPUT CORRECTED)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1046,7 +1047,7 @@ This section describes processes with an _empty set_ that represents an external
 Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degradation
 
 	
-   <h4 style="color:black">4.1 PD2AF:ES-STI (2.1 ss-sti-i)</h4>
+   <h4 style="color:black">4.1 PD2AF:ES-STI</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1070,7 +1071,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 </table><br />
 	
 
-   <h4 style="color:black">4.2 PD2AF:ES-DEGR-STI (2.2 i-sti-ss)</h4>
+   <h4 style="color:black">4.2 PD2AF:ES-DEGR-STI</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1094,7 +1095,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 </table><br />
 
 
-   <h4 style="color:black">4.3 PD2AF:ES-DEGR-CAT (2.3 a-cat-ss)</h4>
+   <h4 style="color:black">4.3 PD2AF:ES-DEGR-CAT</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1118,7 +1119,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 </table><br />
 
 
-   <h4 style="color:black">4.4 PD2AF:ES-DEGR-INH (2.4 a-inh-ss)</h4>
+   <h4 style="color:black">4.4 PD2AF:ES-DEGR-INH</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1251,7 +1252,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 </table><br />
 
 
-   <h4 style="color:black">5.3 PD2AF:COMPL-AS-CAT (5.3 Regulated heterocomplex association)</h4>
+   <h4 style="color:black">5.3 PD2AF:COMPL-AS-CAT</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1275,7 +1276,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 </table><br />
 	
 	
-   <h4 style="color:black">5.4 PD2AF:COMPL-DIS (5.4 Heterocomplex dissociation)</h4>
+   <h4 style="color:black">5.4 PD2AF:COMPL-DIS</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1400,7 +1401,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranlocation reaction, [SBO:0000655](https://identifiers.org/quickgo/SBO:0000655) transport reaction, [GO:0006810](https://identifiers.org/quickgo/GO:0006810) transport
 	
 
-   <h4 style="color:black">7.1 PD2AF:TRANS (4.1 Translocation 1)</h4>
+   <h4 style="color:black">7.1 PD2AF:TRANS</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1424,7 +1425,7 @@ Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranloc
 </table><br />
 	
 
-   <h4 style="color:black">7.1 PD2AF:TRANS-STI (4.2 Transport)</h4>
+   <h4 style="color:black">7.1 PD2AF:TRANS-STI</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1452,7 +1453,7 @@ Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranloc
 ## 8. Hidden inhibition
 
 
-   <h4 style="color:black">8.1 PD2AF:HIDINH1 (6.1 Hidden inhibition 1)</h4>
+   <h4 style="color:black">8.1 PD2AF:HIDINH1</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1477,7 +1478,7 @@ Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranloc
 
 
 	
-   <h4 style="color:black">8.2 PD2AF:HIDINH2 (6.2 Hidden inhibition 2)</h4>
+   <h4 style="color:black">8.2 PD2AF:HIDINH2</h4>
 
 This is a combination of rules 8.1 and 2.7
 
