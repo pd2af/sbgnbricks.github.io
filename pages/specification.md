@@ -1513,11 +1513,12 @@ This is a combination of rules 8.1 and 2.7
 			<div><img src="/images/specification/hidden_inhibition_2/pd.png" width="392px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/hidden_inhibition_2/af.png" width="229.6px" />
+			<img src="/images/specification/hidden_inhibition_2/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/hidden_inhibition_2/pd.gml">GML</a>&ensp; &ensp;
 			<a href="/images/specification/hidden_inhibition_2/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/hidden_inhibition_2/pd.sbgn" target="_blank">Newt</a>
 		</td>
