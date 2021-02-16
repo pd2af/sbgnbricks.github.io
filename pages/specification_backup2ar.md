@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Specification
-permalink: /specification_backup2ar
+permalink: /specification_backup2ar/
 ---
 
 Comments from Adrien Rougny
