@@ -1260,7 +1260,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/compl-as/pd.gml">SGML</a>&ensp; &ensp;
+			<a href="/images/specification/compl-as/pd.gml">GML</a>&ensp; &ensp;
 			<a href="/images/specification/compl-as/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/compl-as/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -1286,10 +1286,12 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/complex_association_regulated/pd.gml">GML</a>&ensp; &ensp;
 			<a href="/images/specification/complex_association_regulated/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/complex_association_regulated/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
+			<a href="/images/specification/complex_association_regulated/af.gml">GML</a>&ensp; &ensp;
 			<a href="/images/specification/complex_association_regulated/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/complex_association_regulated/af.sbgn" target="_blank">Newt</a>
 		</td>
