@@ -1152,6 +1152,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/a-inh-ss/pd.gml">GML</a>&ensp; &ensp;
 			<a href="/images/specification/a-inh-ss/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-inh-ss/pd.sbgn" target="_blank">Newt</a>
 		</td>
