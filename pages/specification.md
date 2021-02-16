@@ -1312,10 +1312,12 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/complex_dissociation/pd.gml">GML</a>&ensp; &ensp;
 			<a href="/images/specification/complex_dissociation/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/complex_dissociation/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
+			<a href="/images/specification/complex_dissociation/af.gml">GML</a>&ensp; &ensp;
 			<a href="/images/specification/complex_dissociation/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/complex_dissociation/af.sbgn" target="_blank">Newt</a>
 		</td>
